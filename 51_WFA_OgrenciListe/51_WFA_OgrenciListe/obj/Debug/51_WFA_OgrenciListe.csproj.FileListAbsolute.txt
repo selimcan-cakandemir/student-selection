@@ -1,0 +1,13 @@
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\bin\Debug\51_WFA_OgrenciListe.exe.config
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\bin\Debug\51_WFA_OgrenciListe.exe
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\bin\Debug\51_WFA_OgrenciListe.pdb
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\obj\Debug\51_WFA_OgrenciListe.csprojAssemblyReference.cache
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\obj\Debug\_51_WFA_OgrenciListe.Form1.resources
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\obj\Debug\_51_WFA_OgrenciListe.Properties.Resources.resources
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\obj\Debug\51_WFA_OgrenciListe.csproj.GenerateResource.cache
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\obj\Debug\51_WFA_OgrenciListe.csproj.CoreCompileInputs.cache
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\obj\Debug\51_WFA_OgrenciListe.exe
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\obj\Debug\51_WFA_OgrenciListe.pdb
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\obj\Debug\_51_WFA_OgrenciListe.Login.resources
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\obj\Debug\_51_WFA_OgrenciListe.KonuSecimi.resources
+C:\Users\sccde\source\repos\51_WFA_OgrenciListe\51_WFA_OgrenciListe\obj\Debug\_51_WFA_OgrenciListe.Select.resources
